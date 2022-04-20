@@ -1,0 +1,3 @@
+[submodule "Android-SDK"]
+	path = Android-SDK
+	url = https://github.com/handeskXYZ/Android-SDK.git
